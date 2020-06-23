@@ -3,4 +3,4 @@ Der Film Instinkt aus dem Jahr 1999 basiert auf dem Roman Ismael von Daniel Quin
 ## Character Eigenschaften
 * Beruf: Anthropologe
 * schweigsam
-* hat die konventionellen Regeln der menschlichen Gesellschaft verdrängt
+* hat die konventionellen Regeln der menschlichen Gesellschaft verdraengt
